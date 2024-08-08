@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#bodyy{
+ background-color: green;
+}
+#bodyyy{
+  background-color: black;
+}
+
+
+
+#color{
+  background-color: Red;
+}
+h1{
+  background-color:yellow;
+}
+h2{
+  background-color:green;
+}
+h3{
+  background-color:red;
+
+}
+h5{
+  background-color:white;
+}
